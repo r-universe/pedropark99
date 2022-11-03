@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "figma"]
+	path = figma
+	url = https://github.com/pedropark99/figma
+	shallow = true
+	registered = true
